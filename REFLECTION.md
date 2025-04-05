@@ -14,7 +14,8 @@ By Prac 6, I started accounting for "unknown unknowns" like library compatibilit
 I learned to:  
 1. Add buffer time for research/testing  
 2. Prioritize MVP (Minimum Viable Product) features  
-3. Use past task metrics to inform new estimates  
+3. Use past task metrics to inform new estimates
+4. Deepen the understanding of Python.  
 
 ## Code Reviews
 
